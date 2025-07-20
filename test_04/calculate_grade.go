@@ -55,3 +55,7 @@ func feata() int {
 func featb() int {
 	return 2
 }
+
+func featc() int {
+	return 3
+}
