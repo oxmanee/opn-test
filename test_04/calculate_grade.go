@@ -47,3 +47,7 @@ func x() int {
 func y() int {
 	return 1
 }
+
+func feata() int {
+	return 1
+}
