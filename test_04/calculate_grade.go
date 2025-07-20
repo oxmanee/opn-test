@@ -51,3 +51,7 @@ func y() int {
 func feata() int {
 	return 1
 }
+
+func featb() int {
+	return 2
+}
