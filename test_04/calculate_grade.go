@@ -39,3 +39,7 @@ func calculateGrade(input int) string {
 		return "F"
 	}
 }
+
+func x() int {
+	return 0
+}
